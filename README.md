@@ -1,5 +1,7 @@
 # Freakaload!
 
+![freakzoid](freakazoid.jpg)
+
 This script will download all Freakazoid! episodes from *archive.org*
 
 **Language:**
